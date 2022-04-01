@@ -2,7 +2,7 @@
 
 This is a basic website that allows you to compile code online. It is not a full-featured compiler, but it is a good starting point for learning how to use the compiler.
 
-This website is an assignment from **CodeQuotient Platform**. It uses **API** and **AJAX** calls to compile your code.
+This website is an assignment from **[CodeQuotient Platform](https://codequotient.com/)**. It uses **API** and **AJAX** calls to compile your code.
 
 ---
 It currently supports the following 5 languages:
