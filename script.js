@@ -46,6 +46,8 @@ function getResponse(codeId) {
 
 		let tempOutput = JSON.parse(receivedData.data);
 
+		displayOutput.scrollIntoView({ behavior: "smooth" });
+
 		if (tempOutput.output != "") {
 			displayOutput.innerHTML = tempOutput.output;
 		} else {
