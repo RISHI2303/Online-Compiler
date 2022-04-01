@@ -31,7 +31,7 @@ function compileCode() {
 			let response = JSON.parse(request.responseText);
 			console.log(response);
 			getResponse(response.codeId);
-		}, 5000);
+		}, 2000);
 	}
 }
 
